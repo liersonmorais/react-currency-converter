@@ -5,6 +5,7 @@
  
  Flaws:
  
+ - the second field is not converting; working on it;
  - No connection to any database.
  - The assignment included a MongoDb Connection and an access to a data table where it would be recorded all the transactions.
  
